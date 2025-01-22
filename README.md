@@ -11,7 +11,7 @@ Freedom Of Money . . .
 ## Global Currencies Table
 |Currency	    |Code	    |Country/Region |
 |:----------:   | :------:  | :-----:        |
-**Global Currency**|**GLB**| **GlobalBanking**
+**Global Currency**|**GLB**| **Globe🌏**
 |Afghani	    |AFN	    |Afghanistan    |
 |Euro	        |EUR	|European Union (Multiple countries)
 |Lek	        |ALL	|Albania
