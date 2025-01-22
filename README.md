@@ -2,7 +2,7 @@
 Freedom Of Money . . .
 
 ## Freedom
-
+//ghp_7wrGBvrtdjyluCt622VwCmaLZkqzbfsG1dkxR6
 
 ## Usage
 
