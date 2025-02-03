@@ -9,7 +9,7 @@ Freedom Of Money . . .
 ## Documentation
 
 ## Global Currencies Table
-|Currency	    |Code	    |Country/Region |
+|Currency💶	    |Code 	    |Country/Region🏳️‍🌈 |
 |:----------:   | :------:  | :-----:        |
 **Global Currency**|**GLB**| **Globe🌏**
 |Afghani	    |AFN	    |Afghanistan    |
@@ -158,8 +158,17 @@ Vietnamese Dong	|VND|	Vietnam
 Yemeni Rial	|YER|	Yemen
 Zambian Kwacha	|ZMW|	Zambia
 Zimbabwean Dollar	|ZWL|	Zimbabwe
+British Pound Sterling |GBP| United Kingdom
 
 
 ___
+### Project Keywords/Phrases
+Most Robust BlockChain On Earth,
+## Feature decision
+- Decimal of token
+## Solving Problems . . .
+- Price Feeds
+- onboard IRL currency
+- USD collision (USA and Timor-Leste Dollar)
+
 ## Delete on launch
-## Limitations
