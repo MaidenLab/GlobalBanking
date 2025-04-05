@@ -1,8 +1,15 @@
-## GlobalBanking
+# WorldBank
+## Overview
+
+GlobalBank is an **Alien-Generation Financial Platform** built as blockchain technology. 
+WorldBank digitizes local currencies, allowing users to transact easily in any currency worldwide.
+It abstracts away the complexities of cryptocurrency securely while enabling instant, seamless, near-zero-cost, boundryless transactions (with optional Zero Knowledge-Privacy Tx)
+
+
 Freedom Of Money💸 . . .
 
 ## Freedom
-//ghp_7wrGBvrtdjyluCt622VwCmaLZkqzbfsG1dkxR6
+
 
 ## Usage
 
