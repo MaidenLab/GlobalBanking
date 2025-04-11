@@ -1,21 +1,41 @@
-# WorldBank
+# GlobalBank
+
+THIS IS STILL A WORK IN PROGRESS > > >
 ## Overview
 
-GlobalBank is an **Alien-Generation Financial Platform** built as blockchain technology. 
-WorldBank digitizes local currencies, allowing users to transact easily in any currency worldwide.
-It abstracts away the complexities of cryptocurrency securely while enabling instant, seamless, near-zero-cost, boundryless transactions (with optional Zero Knowledge-Privacy Tx)
+GlobalBank is not just a payment solution, its an **Alien-Generation Financial Platform** built as blockchain technology. 
+The very first of its kind.
+GlobalBank digitizes local currencies, allowing users to transact easily in any currency worldwide.
+It abstracts away the complexities of cryptocurrency securely while enabling instant, seamless, near-zero-cost, boundryless transactions with inbuilt ZK-Privacy (optional to each Tx)
 
 
 Freedom Of Money💸 . . .
 
-## Freedom
+
+## How It Works
+
+1. Download the GlobalBank App (available for iOS, Android).
+
+2. Create an easy, One-time Account with biometric authentication for security.
+
+3. Deposit Funds (BTC, ETH, SOL, Mastercard)
+
+4. Optionally Swap GLB (native token) to and fro choice of currency.
+
+5. HODL or Transact instantly with anyone globally.
+
+Enjoy Private Transactions, where your payments are not publicly traceable.
 
 
-## Usage
+## Why Choose GlobalBank?
+Not only does it aggregate all your blockchain financial needs efficiently, securely and privately, its also abstracts away all complexities and mystries of blockchain technology hece the **ability to onboard 50% World population**. Ur grandma is no longer left behind.
+. . .and this is just the beginning. The base on which Creativity will be dancing. 
+Watch out for GlobalBanking.
 
 ## Documentation
 
 ## Global Currencies Table
+Note: Not all will be onboarded at Launch. Then slowly and steadily, all will be deployed.
 |Currency💶	    |Code 	    |Country/Region🏳️‍🌈 |
 |:----------:   | :------:  | :-----:        |
 **Global Currency**|**GLB**| **Globe🌏**
@@ -170,12 +190,17 @@ British Pound Sterling |GBP| United Kingdom
 
 ___
 ### Project Keywords/Phrases
-Most Robust BlockChain On Earth,
+Extremely robust, Latent, Onboard 50% World population, Tx Privacy.
 ## Feature decision
 - Decimal of token
+- Open Sourced?
 ## Solving Problems . . .
-- Price Feeds
-- onboard IRL currency
-- USD collision (USA and Timor-Leste Dollar)
+- VC funding
+- Price Feeds to onboard each asset / loclstable.
+- Currency code collision in Smart contract (USA and Timor-Leste Dollar are both USD)
 
 ## Delete on launch
+
+## Financial Project to be deployed On chain Launch
+- Staking Protocol
+- . . .
