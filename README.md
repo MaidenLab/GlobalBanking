@@ -35,7 +35,7 @@ Watch out for GlobalBanking.
 ## Documentation
 
 ## Global Currencies Table
-Note: Not all will be onboarded at Launch. Then slowly and steadily, all will be deployed.
+Note: Due to lack of onchain price feeds of Most local Currencies, Not all will be onboarded at Launch. Then slowly and steadily, all will be deployed.
 |Currency💶	    |Code 	    |Country/Region🏳️‍🌈 |
 |:----------:   | :------:  | :-----:        |
 **Global Currency**|**GLB**| **Globe🌏**
